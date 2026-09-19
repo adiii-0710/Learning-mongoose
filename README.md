@@ -30,7 +30,7 @@ Learning-mongoose/
 ├── package-lock.json
 ├── README.md
 └── server.js
-```
+
 Features
 Connects Express.js with MongoDB using Mongoose
 Creates a Mongoose user schema
